@@ -1,0 +1,6 @@
+
+Sample1 text file created in aws folder
+
+lets do further configuration later
+
+status1
